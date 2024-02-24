@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import "./Navbar.css"
+import React, { useState } from 'react';
+import "./Navbar.css";
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
 import MobileNav from './MobileNav/MobileNav';
 
